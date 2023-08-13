@@ -25,7 +25,7 @@ This web app provides an intuitive interface for users to input relevant data an
 1. Clone this repository to your local machine using: "https://github.com/not-indro/CAPM_WEBAPP.git"
 2. Navigate to the project directory: "cd CAPM_WEBAPP"
 3. Run the Streamlit app: "streamlit run CAPM_Return.py"
-4. Access the app in your web browser at `http://localhost:8501`.
+4. Access the app in your web browser at `https://capmwebapp-6azyvhyywmgr32b-capm-webapp.streamlit.app/`.
 
 ## Usage
 
