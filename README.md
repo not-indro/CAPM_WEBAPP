@@ -1,6 +1,6 @@
 # CAPM Web App
 
-![CAPM Web App](app_screenshot.png)
+![CAPM Web App](https://github.com/not-indro/CAPM_WEBAPP/blob/main/Samples/CAPM.gif)
 
 ## Overview
 
