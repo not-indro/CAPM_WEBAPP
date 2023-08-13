@@ -43,7 +43,9 @@ This web app provides an intuitive interface for users to input relevant data an
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![1st Page](https://github.com/not-indro/CAPM_WEBAPP/blob/main/Samples/SS1.png)
+![1st Page](https://github.com/not-indro/CAPM_WEBAPP/blob/main/Samples/SS2.png)
+
 
 ## Contributing
 
